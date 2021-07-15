@@ -1,0 +1,4 @@
+hal_dma.pbi: \
+  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_dma.c \
+  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_dma.h \
+  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_types.h
