@@ -1,5 +1,0 @@
-hal_flash.pbi: \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_flash.c \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_board_cfg.h \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_mcu.h \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_types.h

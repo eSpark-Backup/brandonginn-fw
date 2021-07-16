@@ -1,6 +1,0 @@
-hal_humi.pbi: \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_humi.c \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_humi.h \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_types.h \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_sensor.h \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_i2c.h

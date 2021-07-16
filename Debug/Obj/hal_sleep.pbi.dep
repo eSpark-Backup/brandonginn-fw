@@ -1,5 +1,0 @@
-hal_sleep.pbi: \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sleep.c \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_types.h \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST/hal_mcu.h \
-  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\8051\inc\ioCC2540.h

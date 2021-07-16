@@ -1,4 +1,0 @@
-hal_motion.pbi: \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_motion.c \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC/hal_mcu.h \
-  C:\Texas\ Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC/hal_types.h
