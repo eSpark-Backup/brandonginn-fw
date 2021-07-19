@@ -1,396 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <fileVersion>4</fileVersion>
-    <fileChecksum>3118512223</fileChecksum>
+    <fileChecksum>489877012</fileChecksum>
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_aes.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_keys.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_lcd.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_drivers.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_Tasks.h</file>
-            <file>$PROJ_DIR$\Debug\Exe\project.d51</file>
-            <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mcu.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_key.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_timer.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_lcd.r51</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_PwrMgr.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_acc.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_uart.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_adc.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_spi.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mag.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_dma.r51</file>
-            <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_lcd.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_isr.r51</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_sleep.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_bar.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_key.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_bar.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_key.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_spi.r51</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_sleep.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_acc.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_keys.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_adc.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_board.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_startup.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_dma.c</file>
-            <file>$TOOLKIT_DIR$\inc\clib\limits.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_dma.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_irtemp.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sleep.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_interrupt.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sensor.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_crc.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sensor.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_board_cfg.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_gyro.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_sensor.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_Timers.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_types.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_adc.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_humi.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_assert.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_crc.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_gyro.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_humi.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_aes.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_flash.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_Memory.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mag.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_irtemp.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_uart.h</file>
-            <file>$TOOLKIT_DIR$\inc\ioCC2540.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_led.__cstat.et</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_flash.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_dma.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
-            <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\comdef.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_mag.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_startup.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_dma.__cstat.et</file>
-            <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_cc2541F128_banked.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_led.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_led.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_timer.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_timer.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_uart.__cstat.et</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_spi.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_key.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_crc.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_aes.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_keys.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_defs.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_spi.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_flash.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_isr.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\List\project.map</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_adc.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_sleep.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_irtemp.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_timer.__cstat.et</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_startup.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_assert.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_dma.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_isr.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_irtemp.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_bar.r51</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_uart.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_flash.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_ccm.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_adc.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_led.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_mcu.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_timer.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_aes.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_board_cfg.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_types.h</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.c</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_startup.c</file>
-            <file>$PROJ_DIR$\main.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_key.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_dma.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_isr.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_bar.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_acc.r51</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_lcd.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_assert.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_led.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_startup.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\project.pbd</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_humi.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_assert.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_acc.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_keys.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_gyro.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_gyro.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_crc.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_sensor.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_interrupt.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_dma.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_uart.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_aes.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_humi.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_timer.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_dma.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_flash.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_crc.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_types.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_adc.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_board_cfg.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_flash.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_led.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_mcu.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_ccm.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_startup.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_timer.c</file>
             <file>$PROJ_DIR$\Debug\Obj\hal_interrupt.r51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_mag.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_startup.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_timer.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_timer.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_crc.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_flash.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc.__cstat.et</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_sensor.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_timer.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_uart.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_types.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_assert.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_dma.c</file>
             <file>$PROJ_DIR$\Debug\Obj\hal_flash.xcl</file>
-            <file>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_led.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_mag.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_dma.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dma.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_irtemp.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_humi.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_uart.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_uart.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_dma.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_startup.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_mag.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dma.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_spi.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_assert.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_flash.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_keys.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_crc.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mag.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_Tasks.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_defs.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\comdef.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_sleep.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_flash.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_key.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_led.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_acc.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_irtemp.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_drivers.h</file>
+            <file>$PROJ_DIR$\Debug\List\project.map</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_timer.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_lcd.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_key.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\project.pbd</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_keys.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_keys.r51</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\project.d51</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_spi.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_startup.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_uart.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_led.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_aes.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_led.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_isr.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_gyro.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_types.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_isr.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_gyro.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_bar.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_flash.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_aes.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_irtemp.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_humi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_humi.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_humi.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_adc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_led.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r51</file>
+            <file>$TOOLKIT_DIR$\inc\ioCC2540.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_aes.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_assert.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_aes.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_gyro.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_Memory.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_bar.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_led.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_assert.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_crc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_interrupt.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_acc.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_key.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mag.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_lcd.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_uart.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_dma.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_startup.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_timer.c</file>
+            <file>$TOOLKIT_DIR$\inc\clib\limits.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_gyro.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mcu.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_spi.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_spi.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_dma.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_dma.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_key.r51</file>
+            <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_cc2541F128_banked.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_acc.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_aes.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_keys.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_sensor.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_board.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_dma.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sleep.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_crc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_isr.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sensor.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_lcd.xcl</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_interrupt.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_Timers.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_adc.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\_hal_uart_isr.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_bar.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_irtemp.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_lcd.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sensor.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_board_cfg.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_mcu.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL_PwrMgr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.r51</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_acc.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_crc.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_sleep.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_board_cfg.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_key.c</file>
+            <file>$TOOLKIT_DIR$\inc\ioCC2541.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\OSAL.h</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_sleep.c</file>
+            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_bar.h</file>
         </outputs>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_keys.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 131</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 83</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 7 84 50 63 3 51 32 44 29 33 36 6 69 59 48</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_lcd.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 10</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 19</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 113 122 32 111 108 84 63 33 36 6 69 59 48</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Debug\Exe\project.d51</name>
+            <name>[ROOT_NODE]</name>
             <outputs>
                 <tool>
                     <name>XLINK</name>
-                    <file> 88</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>XLINK</name>
-                    <file> 73 30 139 134 118 143 124 126 141 138 125 68</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_timer.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 141</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 76</file>
+                    <file> 71 61</file>
                 </tool>
             </outputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mag.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.c</name>
             <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 147</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 70</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 60 69 50 84 41 46</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_sleep.c</name>
-            <outputs>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 90</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 113 108 84 63 32 111 27 75 8 33 36 6 69 59 48 4 11 3 94</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_bar.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 98</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 120</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 24 50 41 46 69 84</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_key.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 25</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 117</file>
-                </tool>
                 <tool>
                     <name>__cstat</name>
-                    <file> 80</file>
+                    <file> 77</file>
                 </tool>
-            </outputs>
-            <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 108 84 113 63 3 51 32 111 8 33 36 6 69 59 48</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_acc.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 121</file>
+                    <file> 95</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 130</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 12 69 50 84 41 46 44 7 63</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_startup.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 126</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 93</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 32 44 7 84 50 63</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_dma.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 118</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 142</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 37 32 44 7 84 50 63 62</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_irtemp.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
                     <file> 97</file>
                 </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 91</file>
-                </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 61 69 50 84 46 41</file>
+                    <file> 154 113 70 52 1 51 99 136 0 6 127 5 12 153</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sleep.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_adc.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 137</file>
+                </tool>
+                <tool>
                     <name>BICOMP</name>
-                    <file> 90</file>
+                    <file> 69</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 50 7 84 63 32 44 27 75 8 46 69 33 36 6 59 48 4 11 3 94</file>
+                    <file> 91 1 127 5 12 51 153</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_interrupt.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 128</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 6 127 5 12 51 1 153 109</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 5 12 51 1 153 6 127 55</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 130</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 127 5 12 51 1 153 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_i2c.c</name>
             <outputs>
                 <tool>
                     <name>ICC8051</name>
@@ -398,94 +296,169 @@
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 136</file>
+                    <file> 76</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 29 32 44 7 84 50 63 12 69 60 46</file>
+                    <file> 27 143 144 51 153</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_crc.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_led.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 92</file>
+                </tool>
+                <tool>
                     <name>ICC8051</name>
-                    <file> 134</file>
+                    <file> 101</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 145</file>
+                    <file> 75</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 32 44 7 84 50 63 54</file>
+                    <file> 12 51 1 153 60 57 127 5 154 113 70 52 99 136</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sensor.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_startup.c</name>
             <outputs>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 17</file>
+                </tool>
+                <tool>
                     <name>ICC8051</name>
-                    <file> 135</file>
+                    <file> 40</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 47</file>
+                    <file> 73</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 41 50 46 69 84 75 32 44 7 63 61 52 24 60 12 45</file>
+                    <file> 127 5 12 51 1 153</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_timer.c</name>
             <outputs>
                 <tool>
-                    <name>BICOMP</name>
-                    <file> 144</file>
+                    <name>__cstat</name>
+                    <file> 25</file>
                 </tool>
-            </outputs>
-            <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 94 44 7 84 50 63 46 69</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_assert.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 129</file>
+                    <file> 18</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 123</file>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 115</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 94 50 32 44 7 84 63</file>
+                    <file> 81 56 127 151 116 51 153 62 60 57 109 147 52</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_gyro.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 110</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 53 70 96 127 5 12 51 1 94 6 109</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 5 12 51 1 153 60 109 127 117 53 70 96 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mag.c</name>
             <outputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 132</file>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 107 52 81 51 142 147</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_lcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 141</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
@@ -495,115 +468,386 @@
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 45 69 50 84 46 41</file>
+                    <file> 1 108 127 5 12 51 94 154 113 70 52 99 136</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_humi.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_keys.c</name>
             <outputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 140</file>
+                    <file> 67</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 128</file>
+                    <file> 47</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 52 50 41 46 69 84</file>
+                    <file> 116 51 81 94 60 91 127 151 125 154 113 70 52 99 136</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_aes.c</name>
+            <name>$PROJ_DIR$\Debug\Exe\project.d51</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 122 137 95 20 43 21 146 101 40 18 26 93 68</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_led.c</name>
             <outputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 139</file>
+                    <file> 101</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 110</file>
+                    <file> 75</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 33 36 6 69 50 84 59 48 0 37 32 44 7 63</file>
+                    <file> 116 51 81 94 60 57 127 151 154 113 70 52 99 136</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_flash.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_isr.c</name>
             <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 143</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 148</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 44 7 84 50 63 37 32 65</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_spi.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 26</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 15</file>
-                </tool>
                 <tool>
                     <name>__cstat</name>
-                    <file> 85</file>
+                    <file> 131</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 138</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 18 6 94 32 111 108 84 113 63 3 105 62</file>
+                    <file> 1 96 127 5 12 51 94 109</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_dma.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_gyro.c</name>
             <outputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 17</file>
+                    <file> 98</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 137</file>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 114 52 81 51 147 142</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 21</file>
                 </tool>
                 <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 151 116 51 81 94 119 127 55</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_aes.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 95</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 154 113 70 52 81 51 99 136 124 119 127 151 116 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_humi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 35</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 88 81 142 147 52 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 96 81 127 151 116 51 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_startup.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 127 151 116 51 81 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_timer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 18</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_spi.c</name>
+            <outputs>
+                <tool>
                     <name>__cstat</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
                     <file> 72</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 18 6 94 32 111 108 84 113 63 105 62</file>
+                    <file> 53 70 96 127 5 12 51 1 94 60 6 109</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_isr.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 119 127 151 116 51 81 94 109</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sleep.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 81 116 51 94 127 151 150 57 56 147 52 154 113 70 99 136 50 145 60 96</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_sensor.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 126</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 142 81 147 52 51 57 127 151 116 94 34 88 156 107 123 114</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_interrupt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 104</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 125 127 151 116 51 81 94 123 52 107 147</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 146</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 96 151 116 51 81 153 147 52</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_bar.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 84</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 156 81 142 147 52 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_irtemp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 87</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 34 52 81 51 147 142</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_acc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 105</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 123 52 81 51 142 147 151 116 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_crc.c</name>
             <outputs>
                 <tool>
                     <name>ICC8051</name>
@@ -611,278 +855,60 @@
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 119</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 87</file>
+                    <file> 48</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 113 94 32 111 108 84 63 62</file>
+                    <file> 127 151 116 51 81 94 103</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_uart.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_key.c</name>
             <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 138</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 13</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 78</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 111 108 84 113 63 3 62 32 79 18 6 94 105</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_flash.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 143</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 148</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 86</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 111 108 84 113 63 105 32 65</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 139</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 110</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 82</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 33 36 6 69 113 84 59 48 107 105 32 111 108 63</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_adc.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 30</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 14</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 89</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 51 113 32 111 108 84 63</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_led.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 124</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 74</file>
-                </tool>
                 <tool>
                     <name>__cstat</name>
                     <file> 64</file>
                 </tool>
-            </outputs>
-            <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 108 84 113 63 3 75 32 111 33 36 6 69 59 48</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_timer.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 141</file>
+                    <file> 121</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 76</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 92</file>
-                </tool>
-            </outputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 118</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 142</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 66</file>
+                    <file> 106</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 105 32 111 108 84 113 63 62</file>
+                    <file> 12 51 1 94 60 91 127 5 56 154 113 70 52 99 136</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_sleep.c</name>
             <outputs>
                 <tool>
-                    <name>ICC8051</name>
-                    <file> 134</file>
-                </tool>
-                <tool>
                     <name>BICOMP</name>
-                    <file> 145</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 81</file>
+                    <file> 54</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 32 111 108 84 113 63 99</file>
+                    <file> 1 12 51 94 127 5 150 57 56 154 113 70 52 99 136 50 145 60 96</file>
                 </tool>
             </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_startup.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 126</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 93</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 71</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 32 111 108 84 113 63</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\main.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 125</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 31</file>
-                </tool>
-                <tool>
-                    <name>__cstat</name>
-                    <file> 67</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 113 8 32 111 108 84 63 77 3 75 62</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_led.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 124</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 74</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 7 84 50 63 3 75 32 44 33 36 6 69 59 48</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>[ROOT_NODE]</name>
-            <outputs>
-                <tool>
-                    <name>XLINK</name>
-                    <file> 5 88</file>
-                </tool>
-            </outputs>
         </file>
         <forcedrebuild>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_dma.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_dma.c</name>
             <tool>ICC8051</tool>
         </forcedrebuild>
         <forcedrebuild>
-            <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_isr.c</name>
+            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\_hal_uart_isr.c</name>
             <tool>ICC8051</tool>
         </forcedrebuild>
     </configuration>
