@@ -2155,61 +2155,13 @@
             </data>
         </settings>
     </configuration>
-    <group>
-        <name>HAL Files</name>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_adc.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_aes.h</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_board_cfg.h</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_ccm.h</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_crc.h</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_dma.h</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_flash.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_led.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_mcu.h</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_startup.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_timer.c</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_types.h</name>
-        </file>
-    </group>
     <file>
-        <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
-    </file>
-    <file>
-        <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2540EB\hal_uart.c</name>
+        <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
     </file>
     <file>
         <name>$PROJ_DIR$\main.c</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\..\..\Brendan Task\MLX90614-755bd47fd6be\MLX90614.c</name>
     </file>
 </project>
