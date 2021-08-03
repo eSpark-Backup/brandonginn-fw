@@ -27,22 +27,22 @@
                 <option>
                     <name>Code Memory Model</name>
                     <version>1</version>
-                    <state>1</state>
+                    <state>2</state>
                 </option>
                 <option>
                     <name>Code Memory Model slave</name>
                     <version>1</version>
-                    <state>1</state>
+                    <state>2</state>
                 </option>
                 <option>
                     <name>Data Memory Model</name>
                     <version>0</version>
-                    <state>1</state>
+                    <state>2</state>
                 </option>
                 <option>
                     <name>Data Memory Model slave</name>
                     <version>0</version>
-                    <state>1</state>
+                    <state>2</state>
                 </option>
                 <option>
                     <name>Use extended stack</name>
@@ -59,7 +59,7 @@
                 <option>
                     <name>Calling convention</name>
                     <version>0</version>
-                    <state>2</state>
+                    <state>4</state>
                 </option>
                 <option>
                     <name>Workseg Size</name>
@@ -101,7 +101,7 @@
                 </option>
                 <option>
                     <name>CodeBankReg</name>
-                    <state>0xF0</state>
+                    <state>0x9F</state>
                 </option>
                 <option>
                     <name>CodeBankStart</name>
@@ -199,7 +199,7 @@
                 </option>
                 <option>
                     <name>CodeBankRegMask</name>
-                    <state>0x30</state>
+                    <state>0xFF</state>
                 </option>
                 <option>
                     <name>GeneralMisraRules98</name>
@@ -208,7 +208,7 @@
                 </option>
                 <option>
                     <name>PDATA 8-15 register address</name>
-                    <state>0xA0</state>
+                    <state>0x93</state>
                 </option>
                 <option>
                     <name>PDATA 16-31 register address</name>
@@ -251,11 +251,11 @@
                 </option>
                 <option>
                     <name>OGChipSelectMenu</name>
-                    <state>8052	Generic 8052</state>
+                    <state>CC2541F128	CC2541F128</state>
                 </option>
                 <option>
                     <name>OGChipSelectMenuSlave</name>
-                    <state>8052	Generic 8052</state>
+                    <state>CC2541F128	CC2541F128</state>
                 </option>
                 <option>
                     <name>DPC Address</name>
@@ -279,7 +279,7 @@
                 </option>
                 <option>
                     <name>OGChipConfigPath</name>
-                    <state>$TOOLKIT_DIR$\config\devices\_generic\8052.i51</state>
+                    <state>D:\IAR Workbench\EW8051\8051\bin\..\config\devices\Texas Instruments\CC25xx\4x\CC2541F128.i51</state>
                 </option>
                 <option>
                     <name>PCReadOnly</name>
@@ -769,7 +769,7 @@
                 </option>
                 <option>
                     <name>OutputFile</name>
-                    <state>project.d51</state>
+                    <state>I2C Project.d51</state>
                 </option>
                 <option>
                     <name>OutputFormat</name>
@@ -963,7 +963,7 @@
                 </option>
                 <option>
                     <name>ExtraOutputFile</name>
-                    <state>project.sim</state>
+                    <state>templproj.sim</state>
                 </option>
                 <option>
                     <name>ExtraOutputFormat</name>
@@ -2254,12 +2254,9 @@
         </settings>
     </configuration>
     <file>
-        <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
+        <name>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
     </file>
     <file>
         <name>$PROJ_DIR$\main.c</name>
-    </file>
-    <file>
-        <name>$PROJ_DIR$\..\..\Brendan Task\MLX90614-755bd47fd6be\MLX90614.c</name>
     </file>
 </project>

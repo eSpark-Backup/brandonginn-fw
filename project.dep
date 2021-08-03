@@ -1,64 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <fileVersion>4</fileVersion>
-    <fileChecksum>3966442703</fileChecksum>
+    <fileChecksum>2314652065</fileChecksum>
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\comdef.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_assert.h</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_board_cfg.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.r51</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mcu.h</file>
-            <file>$PROJ_DIR$\Debug\Exe\project.d51</file>
-            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.r51</file>
-            <file>$TOOLKIT_DIR$\config\devices\_generic\lnk51ew_8052.xcl</file>
-            <file>$PROJ_DIR$\..\..\Brendan Task\MLX90614-755bd47fd6be\MLX90614.c</file>
-            <file>$PROJ_DIR$\..\..\Brendan Task\MLX90614-755bd47fd6be\MLX90614.h</file>
-            <file>$PROJ_DIR$\Debug\List\project.map</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\MLX90614.xcl</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_mcu.h</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\project.pbd</file>
+            <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_CC2541F128_banked.xcl</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_assert.h</file>
             <file>$PROJ_DIR$\Debug\Obj\hal_i2c.xcl</file>
-            <file>$TOOLKIT_DIR$\lib\clib\cl-pli-nsid-1e16x01.r51</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\osal\include\comdef.h</file>
             <file>$PROJ_DIR$\main.c</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.h</file>
+            <file>$PROJ_DIR$\Debug\List\I2C Project.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_board_cfg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.r51</file>
+            <file>$PROJ_DIR$\Debug\Exe\I2C Project.d51</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r51</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_types.h</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.h</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
+            <file>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_defs.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\project.d51</file>
             <file>$TOOLKIT_DIR$\inc\ioCC2541.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\MLX90614.r51</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\include\hal_defs.h</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_i2c.c</file>
-            <file>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_types.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hal_i2c.__cstat.et</file>
         </outputs>
         <file>
-            <name>[ROOT_NODE]</name>
+            <name>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
             <outputs>
                 <tool>
-                    <name>XLINK</name>
-                    <file> 11 6</file>
-                </tool>
-            </outputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Debug\Exe\project.d51</name>
-            <outputs>
-                <tool>
-                    <name>XLINK</name>
+                    <name>ICC8051</name>
                     <file> 11</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 5</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
-                    <name>XLINK</name>
-                    <file> 8 7 4 19 15</file>
+                    <name>ICC8051</name>
+                    <file> 4 10 0 18 15 20 16 6</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\Brendan Task\MLX90614-755bd47fd6be\MLX90614.c</name>
+            <name>$PROJ_DIR$\main.c</name>
             <outputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 19</file>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 9</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
@@ -68,58 +70,31 @@
             <inputs>
                 <tool>
                     <name>ICC8051</name>
-                    <file> 10 17 0 22 20</file>
+                    <file> 16 6 15 18</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
+            <name>$PROJ_DIR$\Debug\Exe\I2C Project.d51</name>
             <outputs>
                 <tool>
-                    <name>ICC8051</name>
-                    <file> 7</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 14</file>
+                    <name>XLINK</name>
+                    <file> 8</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
-                    <name>ICC8051</name>
-                    <file> 2 3 5 20 22 18 17 0</file>
+                    <name>XLINK</name>
+                    <file> 3 11 14 17</file>
                 </tool>
             </inputs>
         </file>
         <file>
-            <name>$PROJ_DIR$\main.c</name>
+            <name>[ROOT_NODE]</name>
             <outputs>
                 <tool>
-                    <name>ICC8051</name>
-                    <file> 4</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 1</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 10 17 0 22 20</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\..\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ARC\hal_i2c.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC8051</name>
-                    <file> 7</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 14</file>
+                    <name>XLINK</name>
+                    <file> 12 8 19</file>
                 </tool>
             </outputs>
         </file>

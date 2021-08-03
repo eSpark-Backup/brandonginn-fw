@@ -2156,12 +2156,9 @@
         </settings>
     </configuration>
     <file>
-        <name>C:\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
+        <name>$PROJ_DIR$\..\Texas Instruments\BLE-CC254x-1.5.2.0\Components\hal\target\CC2541ST\hal_i2c.c</name>
     </file>
     <file>
         <name>$PROJ_DIR$\main.c</name>
-    </file>
-    <file>
-        <name>$PROJ_DIR$\..\..\Brendan Task\MLX90614-755bd47fd6be\MLX90614.c</name>
     </file>
 </project>
