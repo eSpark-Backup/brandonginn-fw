@@ -733,6 +733,7 @@ int i, iCount;
 	spilcdWriteCommand(0x11);
 	usleep(250000);
 	}
+	
 	if (iLCDType == LCD_ST7789)
 	{
 		s = uc240x240InitList;
